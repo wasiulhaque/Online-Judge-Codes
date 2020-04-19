@@ -2,7 +2,7 @@
 Here lie my attempted solutions to various *online judge problems*
 
 ### Confession
-I don’t that much participate in *online programming contests*. Also I don't at all like solving practice problems because of various reasons. So, majority of the **solutions** that you are going to find here exist here mostly because I was probably *forced to solve them*. 
+I don’t that much participate in *online programming contests*. Also I don't at all like solving practice problems because of various reasons. So, majority of the **solutions** that you are going to find exist here mostly because I was probably *forced to solve them*. 
 And it’s not that I am not much in **problem solving** or **contest programming** only because I’m *lazy*. I’m both **lazy** and **good-for-nothing** as a person.
 
 ### Legalizing Terrorization
