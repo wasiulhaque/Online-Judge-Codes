@@ -11,16 +11,16 @@ If you are **unlucky** enough to have needed to go through any of the provided s
 ### Statistics
 | *OJ*        | *Solves*           |
 | ------------- |:-------------:|
-| AtCoder     | 1 |
-| CodeChef      | 5 |
-| CodeForces | 24      |
+| [AtCoder](https://atcoder.jp/)     | 1 |
+| [CodeChef](https://codechef.com)      | 5 |
+| [CodeForces](http://codeforces.com/) | 24      |
 | Gym | 2      |
-| HackerRank | 3      |
-| Kattis | 1      |
-| LightOJ | 2      |
-| SPOJ | 1      |
-| TOPH | 16      |
-| URAL | 1      |
-| UVA  | 9      |
+| [HackerRank](https://hackerrank.com) | 3      |
+| [Kattis](https://open.kattis.com/) | 1      |
+| [LightOJ](https://lightoj.com) | 2      |
+| [SPOJ](https://spoj.com) | 1      |
+| [TOPH](https://toph.com) | 16      |
+| [URAL](https://acm.timus.ru/) | 1      |
+| [UVA](https://onlinejudge.org/)  | 9      |
 
 *`Last Updated: 19 April, 2020`*
