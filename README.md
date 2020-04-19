@@ -6,7 +6,7 @@ I don’t that much participate in *online programming contests*. Also I don't a
 And it’s not that I am not much in **problem solving** or **contest programming** only because I’m *lazy*. I’m both **lazy** and **good-for-nothing** as a person.
 
 ### Legalizing Terrorization
-If you are **unlucky** enough to have needed to go through any of the provided solutions and more likely didn't get to understand any of it, *feel free* to knock me [here](https://www.facebook.com/leon.wasiul). *Thereby, I take all the responsibility of the thoughts about terrorizing me after attempting to understand anything found in this repository.*
+If you are **unlucky** enough to have needed to go through any of the provided solutions and more likely didn't get to understand any of those, *feel free* to knock me [here](https://www.facebook.com/leon.wasiul). *Thereby, I take all the responsibility of the thoughts about terrorizing me after attempting to understand anything found in this repository.*
 
 ### Statistics
 | *OJ*        | *Solves*           |
