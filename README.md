@@ -19,7 +19,7 @@ If you are **unlucky** enough to have needed to go through any of the provided s
 | [Kattis](https://open.kattis.com/) | 1      |
 | [LightOJ](http://lightoj.com/) | 2      |
 | [SPOJ](https://spoj.com) | 1      |
-| [TOPH](https://toph.com) | 16      |
+| [TOPH](https://toph.co) | 16      |
 | [URAL](https://acm.timus.ru/) | 1      |
 | [UVA](https://onlinejudge.org/)  | 9      |
 
