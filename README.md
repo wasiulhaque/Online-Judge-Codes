@@ -12,7 +12,7 @@ If you are **unlucky** enough to have needed to go through any of the provided s
 | *OJ*        | *Solves*           |
 | ------------- |:-------------:|
 | [AtCoder](https://atcoder.jp/)     | 1 |
-| [CodeChef](https://codechef.com)      | 5 |
+| [CodeChef](https://codechef.com)      | 8 |
 | [CodeForces](http://codeforces.com/) | 24      |
 | Gym | 2      |
 | [HackerRank](https://hackerrank.com) | 3      |
@@ -23,4 +23,4 @@ If you are **unlucky** enough to have needed to go through any of the provided s
 | [URAL](https://acm.timus.ru/) | 1      |
 | [UVA](https://onlinejudge.org/)  | 9      |
 
-*`Last Updated: 19 April, 2020`*
+*`Last Updated: 22 April, 2020`*
