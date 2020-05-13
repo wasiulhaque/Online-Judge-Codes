@@ -13,7 +13,7 @@ If you are **unlucky** enough to have needed to go through any of the provided s
 | ------------- |:-------------:|
 | [AtCoder](https://atcoder.jp/)     | 1 |
 | [CodeChef](https://codechef.com)      | 8 |
-| [CodeForces](http://codeforces.com/) | 24      |
+| [CodeForces](http://codeforces.com/) | 26      |
 | Gym | 2      |
 | [HackerRank](https://hackerrank.com) | 3      |
 | [Kattis](https://open.kattis.com/) | 1      |
@@ -23,4 +23,4 @@ If you are **unlucky** enough to have needed to go through any of the provided s
 | [URAL](https://acm.timus.ru/) | 1      |
 | [UVA](https://onlinejudge.org/)  | 9      |
 
-*`Last Updated: 22 April, 2020`*
+*`Last Updated: 13 May, 2020`*
