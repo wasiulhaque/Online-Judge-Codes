@@ -13,14 +13,14 @@ If you are **unlucky** enough to have needed to go through any of the provided s
 | ------------- |:-------------:|
 | [AtCoder](https://atcoder.jp/)     | 1 |
 | [CodeChef](https://codechef.com)      | 8 |
-| [CodeForces](http://codeforces.com/) | 26      |
+| [CodeForces](http://codeforces.com/) | 32      |
 | Gym | 2      |
 | [HackerRank](https://hackerrank.com) | 3      |
 | [Kattis](https://open.kattis.com/) | 1      |
 | [LightOJ](http://lightoj.com/) | 2      |
-| [SPOJ](https://spoj.com) | 1      |
+| [SPOJ](https://spoj.com) | 2      |
 | [TOPH](https://toph.co) | 16      |
 | [URAL](https://acm.timus.ru/) | 1      |
 | [UVA](https://onlinejudge.org/)  | 9      |
 
-*`Last Updated: 13 May, 2020`*
+*`Last Updated: 13 July 2020`*
